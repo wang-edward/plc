@@ -1,1 +1,2 @@
-graph-based ladder logic simulator
+# plc
+Graph-based ladder logic simulator
